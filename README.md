@@ -33,8 +33,8 @@ Each STF file is a JSONL (newline-delimited JSON) file:
 ```json
 {
   "schema_version": "1.0",
-  "flight_id": "2026-04-19_playbox_il_f01",
-  "tunnel_id": "playbox_il",
+  "flight_id": "2026-04-19_flybox_il_f01",
+  "tunnel_id": "flybox_il",
   "pilot_id": "...",
   "coordinate_frame": "tunnel",
   "units": "meters"
