@@ -45,9 +45,9 @@ The first line of every STF file must be a header object.
 {
   "_header": true,
   "schema_version": "1.0",
-  "flight_id": "2026-04-19_playbox_il_f01",
+  "flight_id": "2026-04-19_flybox_il_f01",
   "frame_format": "v1",
-  "tunnel_id": "playbox_il",
+  "tunnel_id": "flybox_il",
   "pilot_id": "amit_zadok",
   "coordinate_frame": "tunnel",
   "units": "meters",
